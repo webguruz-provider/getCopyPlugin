@@ -1,0 +1,23 @@
+span.dashicons.dashicons-instagram 
+{
+    margin: 4px 1px;
+}
+
+button.button.button-primary.green.pfa-confirm 
+{
+    background: green;
+	cursor: auto;
+}
+
+span.prolab 
+{
+    position: absolute;
+    text-align: center;
+    left: 25%;
+}
+
+.connect-button 
+{
+    float: left;
+    margin: 0 10px 0 0;
+}
